@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <title>Pizza</title>
+      <meta charset="utf-8">
+        </head>
+        <body>
+       <h1>Pizza</h1>
+       <p>1......,
+        2....,
+        3.....</p>
+        <h2>Ingredients</h2>
+        <ul>
+          <li>cheese</li>
+          <li>tomato sauce</li>
+          <li>dough</li>
+          <li>basil</li>
+          </ul>
+        <h2>Instructions</h2>
+        <ol>
+           <li>make the dough</li>
+          <li>put tomato sauce</li>
+          <li>put cheese on top</li>
+          <li>decorate with basil</li>
+          </ol>
+           <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Pizzaaaaaaaaaa">
+        </body>
+        </html>
