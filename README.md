@@ -1,4 +1,4 @@
-# HTML_Project
+# HTML_Projects
 
 sharing my learning process with freeCodeCamp! 
 
